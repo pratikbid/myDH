@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>in.mydreamholiday</groupId>
+  <artifactId>holidayfinder</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170417045419</lastUpdated>
+  </versioning>
+</metadata>
